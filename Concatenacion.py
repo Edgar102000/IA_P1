@@ -17,6 +17,6 @@ Nombrecomp= n1 + " " + n2 + " " + apellido1 + " " + apellido2
 print(Nombrecomp)
 
 num1 = "20 "
-num2 = "30"
+num2 = "50"
 numr = num1 + num2
 print (numr)
